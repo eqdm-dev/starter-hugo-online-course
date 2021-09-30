@@ -11,6 +11,7 @@ main:
     url: '/focus'
     weight: 20
     identifier: focus
+    enable: false
   - name: Data Science
     url: '/focus/example/'
     weight: 100
