@@ -11,10 +11,30 @@ main:
     url: '/focus'
     weight: 20
     identifier: focus
-  - name: Data science
+  - name: Data Science
+    url: '/focus/example/'
+    weight: 100
+    parent: focus
+  - name: Data Quality
+    url: '/focus/example/'
+    weight: 80
+    parent: focus
+  - name: Data Observability
+    url: '/focus/example/'
+    weight: 60
+    parent: focus
+  - name: Data Discovery
+    url: '/focus/example/'
+    weight: 40
+    parent: focus
+  - name: Data Delivery
+    url: '/focus/example/'
+    weight: 20
+    parent: focus
+  - name: SE/DE dichotomy
     url: '/focus/example/'
     weight: 10
-    parent: courses
+    parent: focus    
   - name: Blog
     url: '/post'
     weight: 30
