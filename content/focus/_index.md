@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: : books : Paths
 type: page
 
 header:
@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-Explore our courses below and expand your knowledge!
+Delve into the below and expand your knowledge : crystal_ball :!

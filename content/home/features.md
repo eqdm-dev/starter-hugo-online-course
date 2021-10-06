@@ -3,9 +3,9 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: ✨ Equip _yourself_ with
+subtitle: : sparkles : Equip _yourself_ with
 feature:
-  - icon: chalkboard-teacher
+  - icon: project-diagram
     icon_pack: fas
     name: Slides
     description: null
@@ -15,7 +15,7 @@ feature:
     description: null
   - icon: code
     icon_pack: fas
-    name: Math & Code
+    name: Code
     description: null
 widget_id: pathfinder
 ---

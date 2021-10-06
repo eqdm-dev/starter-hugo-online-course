@@ -30,7 +30,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Teachers
+  - Staff
 highlight_name: false
 ---
 
