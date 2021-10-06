@@ -1,5 +1,5 @@
 ---
-title: : books : Paths
+title: 📚 Paths
 type: page
 
 header:
