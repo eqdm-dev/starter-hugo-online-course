@@ -1,14 +1,10 @@
 ---
 title: Latest News
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+subtitle: ""
+date: 2021-10-06T13:41:42.302Z
 ---
+Whatever is print to fit
