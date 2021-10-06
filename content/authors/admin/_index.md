@@ -3,7 +3,10 @@ title: Sean Flaherty
 role: ""
 bio: ""
 interests:
-  - TKTKTK
+  - 🎙 Podcasts
+  - 📺 Video
+  - 💾 Compute
+  - 🥘 Cooking
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,22 +19,22 @@ social:
     link: https://github.com/seflaherty
   - display:
       header: false
-    link: https://linkedin.com/in/seflaherty617
-    icon_pack: fab
     icon: linkedin-in
+    icon_pack: fab
+    link: https://linkedin.com/in/seflaherty617
   - display:
       header: false
     icon: keybase
     icon_pack: fab
     link: https://keybase.io/seflaherty
-organizations: []
+organizations: [TKTKTK]
 education:
-  courses: []
-email: ""
+  courses: [TKTKTK]
+email: "sean@seanflaherty.com"
 superuser: true
 user_groups:
   - Staff
 highlight_name: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Aspiring Data Team Lead | he/him | `(⌐⊙_⊙)`
