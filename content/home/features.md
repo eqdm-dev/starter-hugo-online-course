@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: : sparkles : Equip _yourself_ with
+subtitle: 🌟 Equip _yourself_ with
 feature:
   - icon: project-diagram
     icon_pack: fas
