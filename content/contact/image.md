@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 # (szf) Not loving this graphic
-enabled: false
+disabled: true
 
 title:
 subtitle:
