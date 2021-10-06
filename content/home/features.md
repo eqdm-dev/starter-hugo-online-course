@@ -2,9 +2,13 @@
 widget: featurette
 headless: true
 weight: 20
-title: Journeys
-subtitle: 🌟 Get equipped with 🌟
+title: Your Journey
+subtitle: 🌟 Equip _yourself_ with 🌟
 feature:
+  - icon: code
+    icon_pack: fas
+    name: Code
+    description: null
   - icon: project-diagram
     icon_pack: fas
     name: Slides
@@ -12,10 +16,6 @@ feature:
   - icon: video
     icon_pack: fas
     name: Video
-    description: null
-  - icon: code
-    icon_pack: fas
-    name: Code
     description: null
 widget_id: pathfinder
 ---

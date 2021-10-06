@@ -1,5 +1,5 @@
 ---
-title: 🔮 Journeys
+title: 🔮 Your Journey
 type: page
 
 header:
@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-Explore the paths below and expand your knowledge!
+Explore a path below and expand your knowledge!
