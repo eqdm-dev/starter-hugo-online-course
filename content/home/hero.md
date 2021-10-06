@@ -27,4 +27,4 @@ advanced:
 
 EQDM is shorthand for 'equidem' with [definitions](http://www.perseus.tufts.edu/hopper/text?doc=equidem&fromdoc=Perseus%3Atext%3A1999.04.0060) like 'truly' or 'indeed'.
 
-Happy that you are here : smile :.
+Happy that you are here :smile:.
