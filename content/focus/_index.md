@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-Delve into the below and expand your knowledge : crystal_ball :!
+Explore the below and expand your knowledge :crystal_ball:!

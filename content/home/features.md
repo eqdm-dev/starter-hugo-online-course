@@ -2,7 +2,7 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
+title: Journeys
 subtitle: 🌟 Equip _yourself_ with
 feature:
   - icon: project-diagram

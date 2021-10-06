@@ -9,6 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
+# (szf) Not loving this graphic
+enabled: false
+
 title:
 subtitle:
 
