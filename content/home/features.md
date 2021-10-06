@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: Journeys
-subtitle: 🌟 Equip _yourself_ with
+subtitle: 🌟 Get equipped with 🌟
 feature:
   - icon: project-diagram
     icon_pack: fas

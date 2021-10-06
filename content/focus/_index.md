@@ -1,5 +1,5 @@
 ---
-title: 📚 Paths
+title: 🔮 Journeys
 type: page
 
 header:
@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-Explore the below and expand your knowledge :crystal_ball:!
+Explore the paths below and expand your knowledge!
