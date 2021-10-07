@@ -1,6 +1,6 @@
 ---
 title: Sean Flaherty
-avatar_filename: me-headshot-2020-10-09-ml-enhance-01-squashed.jpg
+avatar_filename: avatar.jpg
 bio: Aspiring Data Team and Cloud Services Lead | he/him | (⌐⊙_⊙)
 interests:
   - 🎙 Podcasts
