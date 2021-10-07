@@ -20,13 +20,12 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: sean@seanflaherty.com
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on the forum
-    link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
+# email: gofer.chatty.0k@icloud.com
+# appointment_url: 'https://calendly.com'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on the forum
+#    link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
 
 # Site header
 
