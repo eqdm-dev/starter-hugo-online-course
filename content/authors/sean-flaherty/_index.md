@@ -5,7 +5,7 @@ bio: Aspiring Data Team and Cloud Services Lead | he/him | (⌐⊙_⊙)
 interests:
   - 🎙 Podcasts
   - 📺 Video
-  - 💾 Compute
+  - 🔗 Compute
   - 🥘 Cooking
 social:
   - display:
