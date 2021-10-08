@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/61a87e86-7622-4877-8be8-d67afa4f7038/deploy-status)](https://app.netlify.com/sites/eqdm-dev-xp/deploys)
+
 # Wowchemy's Online Course Template for Hugo
 
 The **Online Course Template** empowers you easily create an online course or coaching business with our customizable yet simple all-in-one [**Wowchemy Website Builder**](https://wowchemy.com/) for [Hugo](https://github.com/gohugoio/hugo).
