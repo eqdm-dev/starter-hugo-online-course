@@ -9,7 +9,7 @@ content:
   page_type: book
   filter_default: 0
   filter_button:
-    - name: All Courses
+    - name: All Paths
       tag: "*"
     - name: Data Visualization
       tag: Data Visualization

@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: Your Journey
-subtitle: 🌟 Equip _yourself_ with 🌟
+subtitle: 🌟 Get equipped with 🌟
 feature:
   - icon: code
     icon_pack: fas

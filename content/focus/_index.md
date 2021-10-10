@@ -7,4 +7,3 @@ header:
   image: ""
 ---
 
-Explore a path below and expand your knowledge!
