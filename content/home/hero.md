@@ -25,6 +25,6 @@ advanced:
 ---
 <br>
 
-Shorthand for 'equidem' with [definitions](http://www.perseus.tufts.edu/hopper/text?doc=equidem&fromdoc=Perseus%3Atext%3A1999.04.0060) like 'truly' or 'indeed'. We want a place to share resources about modern software development and in that sharing, put in the work that deepens our own understanding and practices. 
+Shorthand for 'equidem' with [definitions](http://www.perseus.tufts.edu/hopper/text?doc=equidem&fromdoc=Perseus%3Atext%3A1999.04.0060) like 'truly' or 'indeed', we are building a place to share resources about modern software development. In this sharing, we hope that this work will deepen our own understanding and hone our practices. 
 
 Happy that you are here :smile:.
