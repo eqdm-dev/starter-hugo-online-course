@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: eqdm.dev
+title: 
 hero_media: unatomic.svg
 design:
   background:
@@ -25,6 +25,6 @@ advanced:
 ---
 <br>
 
-Shorthand for 'equidem' with [definitions](http://www.perseus.tufts.edu/hopper/text?doc=equidem&fromdoc=Perseus%3Atext%3A1999.04.0060) like 'truly' or 'indeed'. We want a place where to share resources about modern software development and in sharing, putting the work in that deepens our own understanding and practices. 
+Shorthand for 'equidem' with [definitions](http://www.perseus.tufts.edu/hopper/text?doc=equidem&fromdoc=Perseus%3Atext%3A1999.04.0060) like 'truly' or 'indeed'. We want a place to share resources about modern software development and in that sharing, put in the work that deepens our own understanding and practices. 
 
 Happy that you are here :smile:.

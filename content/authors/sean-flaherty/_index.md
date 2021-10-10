@@ -31,5 +31,5 @@ social:
 email: sean@seanflaherty.com
 superuser: true
 user_groups:
-  - Staff
+  - staff
 ---
