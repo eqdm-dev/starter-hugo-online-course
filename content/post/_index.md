@@ -5,6 +5,9 @@ header:
   caption: ""
   image: ""
 subtitle: ""
-date: 2021-10-06T13:41:42.302Z
+date: 2021-10-11T12:58:29.947Z
+summary: Consider the 🐜
+image:
+  preview_only: true
 ---
-Whatever is print to fit
+Taking and making one step at a time to reach the higher ground
