@@ -1,12 +1,19 @@
 ---
-title: about.md
 view: 2
+summary: ""
 header:
   caption: ""
   image: ""
+title: Interview with Creator José Valim
 subtitle: ""
 date: 2021-10-11T12:58:29.947Z
-summary: ""
+tags:
+  - Elixir
+  - Programming
+  - Code
+  - Creator
+categories:
+  - Programming
 image:
   preview_only: false
 ---
