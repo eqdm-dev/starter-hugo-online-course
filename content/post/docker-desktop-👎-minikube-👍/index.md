@@ -2,12 +2,15 @@
 title: Docker Desktop 👎 | Minikube 👍
 subtitle: Changes in Personal Docker Desktop has made it untenable. So, I am moving on.
 date: 2021-10-13T00:29:13.694Z
+summary: Changes in Personal Docker Desktop has made it untenable. So, I am moving on.
 draft: false
 featured: false
 tags:
   - Containers
   - Computarse
   - Windows10
+categories:
+  - Infrastructure
 image:
   filename: ""
   focal_point: ""
