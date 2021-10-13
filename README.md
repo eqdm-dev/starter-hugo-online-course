@@ -20,6 +20,7 @@ The **Online Course Template** empowers you easily create an online course or co
 To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
 ### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/sponsor/)
+<!--
 
 ## Demo image credits
 
@@ -27,5 +28,5 @@ To help us develop this template and software sustainably under the MIT license,
 - [Hero elearning icon](https://www.flaticon.com/packs/online-education-25)
 
 
-<!-- [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-online-course/readme?pixel)](https://github.com/igrigorik/ga-beacon) 
+ [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-online-course/readme?pixel)](https://github.com/igrigorik/ga-beacon) 
 //-->
