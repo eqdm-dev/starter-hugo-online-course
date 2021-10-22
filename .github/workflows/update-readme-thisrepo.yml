@@ -1,9 +1,9 @@
-name: Update `wowchemy-eqdm-dev/README` 
+name: Update wowchemy-eqdm-dev/README
 
 on:
   schedule:
     - cron: '*/30 * * * *'
-  # workflow_dispatch:
+    workflow_dispatch:
 
 jobs:
   build:
