@@ -46,7 +46,8 @@ image:
 - Run `minikube docker-env --shell {bash|cmd|powershell}`
   - 🙋‍♂️ This command gives you the information needed for Docker CLI and this info is provided. To omit the `shell` flag however means that the shell will be guessed, so you may be given a subsequent command to run that will produce error. Moreover, `shell  powershell` will be incorrect for `pwsh`, so maybe not run that Terminal session for now.
   - Bash: `eval $(minikube -p minikube docker-env)`
-  - CMD: `@FOR /f "tokens=*" %i IN ('minikube -p minikube docker-env') DO @%i` 🎁 Use a better shell
+  - CMD: `@FOR /f "tokens=*" %i IN ('minikube -p minikube docker-env') DO @%i` 
+  - ☝ 🎁 *Protip: Use a better shell*
   - Powershell: `& minikube -p minikube docker-env | Invoke-Expression`
 - `docker container ls`
   - 🔗 Docker Client and Server 🎉

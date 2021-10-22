@@ -13,9 +13,9 @@ feature:
     icon_pack: fas
     name: Slides
     description: null
-  - icon: video
+  - icon: tools
     icon_pack: fas
-    name: Video
+    name: Tools
     description: null
 widget_id: pathfinder
 ---
