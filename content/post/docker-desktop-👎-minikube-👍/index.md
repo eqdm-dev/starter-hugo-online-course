@@ -26,6 +26,9 @@ image:
   - `winget install --id Kubernetes.minikube`
 - Kubectl
   - Downloaded and put on Windows Path 💔
+  - [Atomic Commits: Everything Useful I Know About kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl)
+  - [Overview of kubectl](https://kubernetes.io/docs/reference/kubectl/overview/)
+  - [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - Docker CLI
   - Downloaded and put on Windows Path 💔
 - Git and Git CLI
