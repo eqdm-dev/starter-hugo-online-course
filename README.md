@@ -18,7 +18,7 @@
     - 📚 View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
 </details>
 
-#### 😍 This is Crowd-funded open-source software
+#### 😍 Wowchemy is Crowd-funded open-source software
 
 To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
